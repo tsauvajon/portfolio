@@ -87,6 +87,7 @@ Understand software tools or libraries by using them
 - [SOAP web-services](https://github.com/tsauvajon/i4-ws) (Java)
 - [React + Redux](https://github.com/tsauvajon/tesla-battery-range) (JavaScript)
 - [Vagrant + Ansible](https://github.com/socialement-competents/francloud-la-tortue)
+- [Docker](https://gitlab.com/tsauvajon/ping-count) (Go)
 
 ## Coding challenges
 
@@ -180,11 +181,14 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - Alpine Linux
   - Windows
   - Docker
+  - Docker Compose
   - Kubernetes
 - CI
   - CircleCI
   - Jenkins
   - Travis
+  - GitLab CI
+  - Bitbucket Pipelines
 - Code quality
   - Semaphore
   - CodeCov
