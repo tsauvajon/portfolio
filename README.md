@@ -1,7 +1,8 @@
 # Portfolio
 
 [Thomas Sauvajon](https://thomas.sauvajon.tech)'s portfolio.  
-To make browsing my projects easier, I sorted them by categories, with a short description as well as the languages used.
+
+This repository lists my open-source projects, sorted by category.
 
 ## Contents
 
@@ -15,13 +16,15 @@ To make browsing my projects easier, I sorted them by categories, with a short d
 - [Misc](#misc)
 - [Tutorials](#tutorials)
 - [Open-Source contributions](#open-source-contributions)
+- [Commonly used tools](#commonly-used-tools)
 
 ## Hackatons
 
 ### Projects
+*Projects built during a Hackaton*
 
 - Biometric external authentication (1st place with a team of 4/300 competitors)
-  - [Back-end](https://github.com/securify-hackaton/securify-back) (Node.js, TypeScript, JWT, AWS S3, Azure Face API)
+  - [Back-end](https://github.com/securify-hackaton/securify-back) (Node.js, TypeScript, JWT, Azure Face API)
   - [Front-end](https://github.com/securify-hackaton/securify-front) (React Native, Expo)
 - [Decentralised betting application (1st place/80 teams)](https://github.com/tsauvajon/alphabets) (Go, Vue.js, HyperLedger Fabric/HyperLedger Composer)
 - Decentralised helpdesk
@@ -37,12 +40,14 @@ To make browsing my projects easier, I sorted them by categories, with a short d
 - [Order items by pressing a button (like Amazon Dash buttons)](https://github.com/tsauvajon/domotique-securite) (Node.js, Vue.js)
 
 ### Starting kits
+*Repositories prepared before hackatons to avoid losing time on writing boilerplate code*
+
 - [Back-end boilerplate](https://github.com/tsauvajon/backathon) (Node.js, TypeScript)
 - [Front-end boilerplate](https://github.com/tsauvajon/hackafront)  (Vue.js, TypeScript)
 - [Front + back boilerplate](https://github.com/tsauvajon/hackaton-boilerplate) (Vue.js, C#)
 
 ## Concepts
-Understand software concepts by implementing them
+*Projects to understand software concepts by implementing them*
 
 - [Distributed Key-Value stores](https://github.com/tsauvajon/dkvs) (Go)
 - [Microservices](https://github.com/tsauvajon/go-microservices-poc) (Go)
@@ -62,11 +67,12 @@ Understand software concepts by implementing them
 - [JavaServer Faces (JSF)](https://github.com/tsauvajon/tp-jsf) (Java)
 
 ## Languages
-Understand software languages or frameworks by using them
+*Projects to understand software languages or frameworks by using them**
 
 - [REST API in Go and Vue.js](https://github.com/tsauvajon/restapi-go-vue) (Go, JavaScript, Vue.js)
 - [The Rust Programming Language (Rust book for beginners)](https://github.com/tsauvajon/hello_rust) (Rust)
 - [Using TypeScript with Vue.js](https://github.com/tsauvajon/vue-typescript) (Vue.js, TypeScript)
+- [Learned React.js by building a chess game](https://github.com/tsauvajon/epsi-echec-client) (React.js)
 
 ## Tools and libraries
 Understand software tools or libraries by using them
@@ -131,3 +137,78 @@ My open-source contribution, with what I've done in parentheses
 - [Docker course (Grammar checking)](https://github.com/fteychene/docker-workshop)
 - [Solidity programming languages (Documentation)](https://github.com/ethereum/solidity)
 - [Vuetify (Documentation)](https://github.com/vuetifyjs/vuetify)
+
+## Commonly used tools
+
+I usually omitted the use of common tools in the projects description not to clutter the page.  
+Commonly used tools in these repositories that I'm confident using (not including the ones I use professionally):
+- Databases:
+  - PostgreSQL
+  - MySQL
+  - Redis
+  - MongoDB
+  - ElasticSearch (search engine)
+  - Amazon DynamoDB
+  - GCP Cloud Datastore
+- Cloud computing tools:
+  - AWS S3
+  - AWS API Gateway
+  - AWS Lambda
+  - AWS ELB
+  - AWS IAM
+  - GCP Compute Engine
+  - GCP Kubernetes Engine
+  - GCP Functions
+  - GCP Pub/Sub
+  - GCP Container Registry
+  - GCP IAM
+  - GCP Speech-To-Text
+  - Google Maps SDK
+  - DockerHub
+- Hosting
+  - Netlify
+  - Heroku
+  - OVH
+  - AWS EC2
+  - AWS S3
+  - GCP Compute Engine
+  - github.io
+- Platforms
+  - Ubuntu
+  - Debian
+  - Arch Linux
+  - Alpine Linux
+  - Windows
+  - Docker
+  - Kubernetes
+- CI
+  - CircleCI
+  - Jenkins
+  - Travis
+- Code quality
+  - Semaphore
+  - CodeCov
+  - Deepscan
+  - SonarCube
+  - Go report card (https://goreportcard.com)
+- Testing
+  - Jest
+  - JUnit
+  - go test
+  - Mocha
+  - Jasmine
+  - Chai
+  - Nightwatch
+- Web servers
+  - nginx
+  - Apache
+- Misc
+  - Shell scripting
+  - JSON Web Tokens
+  - GraphQL
+  - Web Sockets
+  - HTTPS/certificates
+  - UI libs (Vuetify, Bootstrap...)
+  - Toolchains for the programming languages I use
+  - Git
+  - Subversion
