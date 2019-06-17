@@ -66,6 +66,8 @@ This repository lists my open-source projects, sorted by category.
 - [Object-relational mapping (ORM)](https://github.com/tsauvajon/epsi-tp-myorm) (Java)
 - [JavaServer Faces (JSF)](https://github.com/tsauvajon/tp-jsf) (Java)
 
+- [Recursion](https://github.com/tsauvajon/portfolio)
+
 ## Languages
 *Projects to understand software languages or frameworks by using them**
 
