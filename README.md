@@ -65,7 +65,6 @@ This repository lists my open-source projects, sorted by category.
 - [Yet another URL shortener](https://github.com/tsauvajon/url-shortener) (Node.js)
 - [Object-relational mapping (ORM)](https://github.com/tsauvajon/epsi-tp-myorm) (Java)
 - [JavaServer Faces (JSF)](https://github.com/tsauvajon/tp-jsf) (Java)
-
 - [Recursion](https://github.com/tsauvajon/portfolio)
 
 ## Languages
@@ -140,6 +139,7 @@ My open-source contribution, with what I've done in parentheses
 - [Docker course (Grammar checking)](https://github.com/fteychene/docker-workshop)
 - [Solidity programming languages (Documentation)](https://github.com/ethereum/solidity)
 - [Vuetify (Documentation)](https://github.com/vuetifyjs/vuetify)
+- [Vue-AdSense (Bugfix)](https://github.com/darrynten/vue-adsense) (JavaScript)
 
 ## Commonly used tools
 
