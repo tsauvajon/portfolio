@@ -129,17 +129,18 @@ Projects following tutorials
 - [Ethereum voting dapp](https://github.com/tsauvajon/voting) (JavaScript, Solidity)
 - [Coursera cryptocurrencies](https://github.com/tsauvajon/coursera-crypto) (Java)
 - [GraphQL](https://github.com/tsauvajon/graphql-tuto) (React,js)
+- [Microservices](https://github.com/tsauvajon/microservices) (Go)
 
 ## Open-Source contributions
-My open-source contribution, with what I've done in parentheses
+My open-source contributions, with what I've done in parentheses
 
-- [GraphQL-Go (Implement subscriptions, Documentation, demo project)](https://github.com/graph-gophers/graphql-go) (Go)
-- [Vuejs.org (Documentation, translation)](https://github.com/vuejs-fr/vuejs.org)
-- [Vue router (Documentation)](https://github.com/vuejs/vue-router)
-- [Docker course (Grammar checking)](https://github.com/fteychene/docker-workshop)
-- [Solidity programming languages (Documentation)](https://github.com/ethereum/solidity)
-- [Vuetify (Documentation)](https://github.com/vuetifyjs/vuetify)
-- [Vue-AdSense (Bugfix)](https://github.com/darrynten/vue-adsense) (JavaScript)
+- [GraphQL-Go](https://github.com/graph-gophers/graphql-go) (Implement subscriptions, documentation, demo project - Go)
+- [Vuejs.org](https://github.com/vuejs-fr/vuejs.org) (Documentation, translation)
+- [Vue router](https://github.com/vuejs/vue-router) (Documentation)
+- [Docker course](https://github.com/fteychene/docker-workshop) (Grammar checking)
+- [Solidity programming languages](https://github.com/ethereum/solidity) (Documentation)
+- [Vuetify](https://github.com/vuetifyjs/vuetify) (Documentation)
+- [Vue-AdSense](https://github.com/darrynten/vue-adsense) (Bugfix - JavaScript)
 
 ## Commonly used tools
 
