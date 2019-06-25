@@ -68,7 +68,7 @@ This repository lists my open-source projects, sorted by category.
 - [Recursion](https://github.com/tsauvajon/portfolio)
 
 ## Languages
-*Projects to understand software languages or frameworks by using them**
+*Projects to understand software languages or frameworks by using them*
 
 - [REST API in Go and Vue.js](https://github.com/tsauvajon/restapi-go-vue) (Go, JavaScript, Vue.js)
 - [The Rust Programming Language (Rust book for beginners)](https://github.com/tsauvajon/hello_rust) (Rust)
@@ -76,7 +76,7 @@ This repository lists my open-source projects, sorted by category.
 - [Learned React.js by building a chess game](https://github.com/tsauvajon/epsi-echec-client) (React.js)
 
 ## Tools and libraries
-Understand software tools or libraries by using them
+*Understand software tools or libraries by using them*
 
 - [GraphQL](https://github.com/poudre-aux-yeux/rapiquette) (Go)
 - [web3.js (Ethereum JavaScript API)](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
