@@ -53,7 +53,7 @@ This repository lists my open-source projects, sorted by category.
 - [Microservices](https://github.com/tsauvajon/go-microservices-poc) (Go)
 - [JavaScript workers (+ sorting algorithms)](https://github.com/tsauvajon/js-workers) (TypeScript, JavaScript)
 - [Concurrency with channels in Go](https://github.com/tsauvajon/delete-content) (Go)
-- [Proxying/Reverse-proxying](https://github.com/tsauvajon/proxy) (Go)
+- [Proxying/Reverse-proxying](https://github.com/the-little-pedestrians/tlp-proxy) (Go)
 - [OAuth server](https://github.com/socialement-competents/goauth) (Go)
 - [Ethereum, web3.js, smart-contracts](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
 - [Blockchain](https://github.com/tsauvajon/js-blockchain) (JavaScript)
@@ -130,6 +130,7 @@ Projects following tutorials
 - [Coursera cryptocurrencies](https://github.com/tsauvajon/coursera-crypto) (Java)
 - [GraphQL](https://github.com/tsauvajon/graphql-tuto) (React,js)
 - [Microservices](https://github.com/tsauvajon/microservices) (Go)
+- [Proxy with SSL certificates](https://github.com/tsauvajon/proxy) (Go)
 
 ## Open-Source contributions
 My open-source contributions, with what I've done in parentheses
