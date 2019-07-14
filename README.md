@@ -145,8 +145,8 @@ My open-source contributions, with what I've done in parentheses
 
 ## Commonly used tools
 
-I usually omitted the use of common tools in the projects description not to clutter the page.  
-Commonly used tools in these repositories that I'm confident using (not including the ones I use professionally):
+I omitted to mention the use of common tools in the projects short description not to clutter the page.  
+Commonly used tools in these repositories that I'm confident using (not including the ones I use only commercially):
 - Databases:
   - PostgreSQL
   - MySQL
