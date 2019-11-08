@@ -156,43 +156,57 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - Amazon DynamoDB
   - GCP Cloud Datastore
 - Cloud computing tools:
-  - AWS S3
-  - AWS API Gateway
-  - AWS Lambda
-  - AWS ELB
-  - AWS IAM
-  - GCP Compute Engine
-  - GCP Kubernetes Engine
-  - GCP Functions
-  - GCP Pub/Sub
-  - GCP Container Registry
-  - GCP IAM
-  - GCP Speech-To-Text
+  - Google Cloud (GCP):
+    - Compute Engine
+    - Kubernetes Engine
+    - Functions
+    - Cloud Run
+    - Pub/Sub
+    - Container Registry
+    - IAM
+    - Speech-To-Text
+    - Load Balancing
+    - Cloud SQL
+    - Cloud DNS
+  - Amazon Web Services (AWS):
+    - S3
+    - API Gateway
+    - Lambda
+    - ELB
+    - IAM
+    - EC2
+  - Microsoft Azure:
+    - Face API
+    - Cosmos DB
+  - Oracle Cloud:
+    - Compute
+    - Networking
+    - Load Balancer
   - Google Maps SDK
   - DockerHub
 - Hosting
   - Netlify
   - Heroku
   - OVH
-  - AWS EC2
-  - AWS S3
-  - GCP Compute Engine
   - github.io
 - Platforms
   - Ubuntu
   - Debian
   - Arch Linux
   - Alpine Linux
-  - Windows
+  - MacOS
   - Docker
   - Docker Compose
   - Kubernetes
+  - Windows
 - CI
   - CircleCI
   - Jenkins
+  - Buddy
   - Travis
   - GitLab CI
   - Bitbucket Pipelines
+  - Terraform
 - Code quality
   - Semaphore
   - CodeCov
@@ -215,7 +229,7 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - JSON Web Tokens
   - GraphQL
   - Web Sockets
-  - HTTPS/certificates
+  - HTTPS/SSL/certificates
   - UI libs (Vuetify, Bootstrap...)
   - Toolchains for the programming languages I use
   - Git
