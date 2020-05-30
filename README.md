@@ -53,6 +53,7 @@ This repository lists my open-source projects, sorted by category.
 - [Microservices](https://github.com/tsauvajon/go-microservices-poc) (Go)
 - [JavaScript workers (+ sorting algorithms)](https://github.com/tsauvajon/js-workers) (TypeScript, JavaScript)
 - [Concurrency with channels in Go](https://github.com/tsauvajon/delete-content) (Go)
+- [Concurrenct patterns in Go](https://github.com/tsauvajon/concurrency-patterns) (Go)
 - [Proxying/Reverse-proxying](https://github.com/the-little-pedestrians/tlp-proxy) (Go)
 - [OAuth server](https://github.com/socialement-competents/goauth) (Go)
 - [Ethereum, web3.js, smart-contracts](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
@@ -72,6 +73,7 @@ This repository lists my open-source projects, sorted by category.
 
 - [REST API in Go and Vue.js](https://github.com/tsauvajon/restapi-go-vue) (Go, JavaScript, Vue.js)
 - [The Rust Programming Language (Rust book for beginners)](https://github.com/tsauvajon/hello_rust) (Rust)
+- [Rustlings: interactive exercices to learn Rust](https://github.com/tsauvajon/rustlings-solutions)
 - [Using TypeScript with Vue.js](https://github.com/tsauvajon/vue-typescript) (Vue.js, TypeScript)
 - [Learned React.js by building a chess game](https://github.com/tsauvajon/epsi-echec-client) (React.js)
 
@@ -82,6 +84,8 @@ This repository lists my open-source projects, sorted by category.
 - [web3.js (Ethereum JavaScript API)](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
 - [Truffle (Ethereum development framework)](https://github.com/tsauvajon/pet-shop) (JavaScript, Solidity)
 - [Kafka](https://github.com/tsauvajon/kafka-go-es) (Go)
+- [Kafka for data processing pipelines](https://github.com/tsauvajon/kafka-poc) (Python)
+- [Kubernetes + Terraform](https://github.com/tsauvajon/k8s-the-hard-way)
 - [Go-kit (microservices framework)](https://github.com/tsauvajon/go-kit-demo) (Go)
 - [Go-gin (web server)](https://github.com/tsauvajon/go-gin-app) (Go)
 - [React, GraphQL, Apollo and GraphCool](https://github.com/tsauvajon/hn-react-apollo-graphcool) (React.js)
@@ -89,6 +93,7 @@ This repository lists my open-source projects, sorted by category.
 - [React + Redux](https://github.com/tsauvajon/tesla-battery-range) (JavaScript)
 - [Vagrant + Ansible](https://github.com/socialement-competents/francloud-la-tortue)
 - [Docker](https://gitlab.com/tsauvajon/ping-count) (Go)
+- [Linkerd + Consul](https://github.com/tsauvajon/rustlings-solutions)
 
 ## Coding challenges
 
@@ -157,7 +162,7 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - GCP Cloud Datastore
 - Cloud computing tools:
   - Google Cloud (GCP):
-    - Compute Engine
+    - Compute Engine (+ templates, auto-scaling groups)
     - Kubernetes Engine
     - Functions
     - Cloud Run
@@ -208,6 +213,7 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - Bitbucket Pipelines
   - Terraform
 - Code quality
+  - GolangCI Lint
   - Semaphore
   - CodeCov
   - Deepscan
@@ -225,12 +231,14 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - nginx
   - Apache
 - Misc
-  - Shell scripting
+  - Bash/Shell scripting
   - JSON Web Tokens
+  - Basic cryptography
   - GraphQL
   - Web Sockets
   - HTTPS/SSL/certificates
+  - Domain names
   - UI libs (Vuetify, Bootstrap...)
-  - Toolchains for the programming languages I use
+  - Toolchains for the programming languages I use (Go, JavaScript, Rust, Python, C#)
   - Git
   - Subversion
