@@ -53,7 +53,8 @@ This repository lists my open-source projects, sorted by category.
 - [Microservices](https://github.com/tsauvajon/go-microservices-poc) (Go)
 - [JavaScript workers (+ sorting algorithms)](https://github.com/tsauvajon/js-workers) (TypeScript, JavaScript)
 - [Concurrency with channels in Go](https://github.com/tsauvajon/delete-content) (Go)
-- [Concurrenct patterns in Go](https://github.com/tsauvajon/concurrency-patterns) (Go)
+- [Concurrency patterns in Go](https://github.com/tsauvajon/concurrency-patterns) (Go)
+- [More concurrency in Go](https://github.com/tsauvajon/concurrent-pool) (Go)
 - [Proxying/Reverse-proxying](https://github.com/the-little-pedestrians/tlp-proxy) (Go)
 - [OAuth server](https://github.com/socialement-competents/goauth) (Go)
 - [Ethereum, web3.js, smart-contracts](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
@@ -80,6 +81,7 @@ This repository lists my open-source projects, sorted by category.
 ## Tools and libraries
 *Understand software tools or libraries by using them*
 
+- [WebAssembly + Yew](https://github.com/tsauvajon/pathfinder) (Rust)
 - [GraphQL](https://github.com/poudre-aux-yeux/rapiquette) (Go)
 - [web3.js (Ethereum JavaScript API)](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
 - [Truffle (Ethereum development framework)](https://github.com/tsauvajon/pet-shop) (JavaScript, Solidity)
@@ -151,28 +153,30 @@ My open-source contributions, with what I've done in parentheses
 ## Commonly used tools
 
 I omitted to mention the use of common tools in the projects short description not to clutter the page.  
-Commonly used tools in these repositories that I'm confident using (not including the ones I use only commercially):
+Commonly used tools in these repositories that I'm confident using in production:
 - Databases:
   - PostgreSQL
   - MySQL
   - Redis
   - MongoDB
-  - ElasticSearch (search engine)
   - Amazon DynamoDB
-  - GCP Cloud Datastore
+  - GCP Cloud Firestore
+  - ElasticSearch
 - Cloud computing tools:
   - Google Cloud (GCP):
-    - Compute Engine (+ templates, auto-scaling groups)
+    - Compute Engine (+ templates, auto-scaling groups, pre-emptible VMs)
     - Kubernetes Engine
-    - Functions
+    - Cloud Functions
     - Cloud Run
     - Pub/Sub
+    - Storage
+    - Cloud SQL
     - Container Registry
     - IAM
     - Speech-To-Text
     - Load Balancing
-    - Cloud SQL
     - Cloud DNS
+    - Stackdriver (logging, tracing, monitoring, error reporting)
   - Amazon Web Services (AWS):
     - S3
     - API Gateway
@@ -193,25 +197,27 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - Netlify
   - Heroku
   - OVH
+  - DigitalOcean
   - github.io
 - Platforms
-  - Ubuntu
-  - Debian
   - Arch Linux
-  - Alpine Linux
-  - MacOS
   - Docker
   - Docker Compose
   - Kubernetes
+  - Ubuntu
+  - Debian
+  - Alpine Linux
+  - MacOS
   - Windows
-- CI
+- CI/CD
+  - Terraform
   - CircleCI
   - Jenkins
   - Buddy
   - Travis
   - GitLab CI
   - Bitbucket Pipelines
-  - Terraform
+  - Google Cloud Build
 - Code quality
   - GolangCI Lint
   - Semaphore
@@ -219,6 +225,8 @@ Commonly used tools in these repositories that I'm confident using (not includin
   - Deepscan
   - SonarCube
   - Go report card (https://goreportcard.com)
+  - mypy
+  - pycodestyle
 - Testing
   - Jest
   - JUnit
