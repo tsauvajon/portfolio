@@ -113,6 +113,7 @@ This repository lists my open-source projects, sorted by category.
 - [Solutions for Cryptozombies](https://github.com/tsauvajon/cryptozombies) (Solidity)
 - [Go Solutions for LeetCode challenges](https://github.com/tsauvajon/leetcode-go-solutions) (Go)
 - [Rust Solutions for LeetCode challenges](https://github.com/tsauvajon/leetcode-rust-solutions) (Rust)
+- [Solutions for Advent of Code 2020](https://github.com/tsauvajon/advent-of-code-2020) (Python)
 
 ## Data structures and Algorithms
 
