@@ -70,6 +70,7 @@ This repository lists my open-source projects, sorted by category.
 - [URL shortener](https://github.com/tsauvajon/url-sh) (Node.js)
 - [Another URL shortener](https://github.com/tsauvajon/node-url-shortener) (Node.js)
 - [Yet another URL shortener](https://github.com/tsauvajon/url-shortener) (Node.js)
+- [And another one but in Rust](https://github.com/tsauvajon/shorturl) (Rust)
 - [Object-relational mapping (ORM)](https://github.com/tsauvajon/epsi-tp-myorm) (Java)
 - [JavaServer Faces (JSF)](https://github.com/tsauvajon/tp-jsf) (Java)
 - [Recursion](https://github.com/tsauvajon/portfolio)
@@ -87,6 +88,7 @@ This repository lists my open-source projects, sorted by category.
 *Understand software tools or libraries by using them*
 
 - [WebAssembly + Yew](https://github.com/tsauvajon/pathfinder) (Rust)
+- [Full stack Rust (back + front)](https://github.com/tsauvajon/shorturl) (Rust)
 - [GraphQL](https://github.com/poudre-aux-yeux/rapiquette) (Go)
 - [web3.js (Ethereum JavaScript API)](https://github.com/tsauvajon/lottery) (Solidity, Vue.js)
 - [Truffle (Ethereum development framework)](https://github.com/tsauvajon/pet-shop) (JavaScript, Solidity)
@@ -157,6 +159,7 @@ My open-source contributions, with what I've done in parentheses
 - [Vue.js router](https://github.com/vuejs/vue-router) (Documentation)
 - [Docker course](https://github.com/fteychene/docker-workshop) (Grammar checking)
 - [Solidity - programming language](https://github.com/ethereum/solidity) (Documentation)
+- [APSIM - Agricultural simulator](https://github.com/APSIMInitiative/APSIMClassic) (Helping port to Linux, Dockerising it)
 - [Vuetify - Vue.js UI library](https://github.com/vuetifyjs/vuetify) (Documentation)
 - [Vue-AdSense - Vue.js component for Google AdSense](https://github.com/darrynten/vue-adsense) (Bugfix - JavaScript)
 - [Patron - Golang framework](https://github.com/beatlabs/patron) (Logging improvements, Documentation - Go)
